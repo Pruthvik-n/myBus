@@ -1,0 +1,17 @@
+{
+	"name": "Cue Bus",
+	"version": "1.0",
+	"description": "Cue bus time left",
+	"permissions": ["activeTab"],
+	"browser_action": {
+		"default_popup": "popup.html"
+	},
+	"icons": {
+		"16": "images/bus.png",
+		"32": "images/bus.png",
+		"48": "images/bus.png",
+		"128": "images/bus.png"
+	},
+	"options_page": "options.html",
+	"manifest_version": 2
+}
