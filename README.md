@@ -6,4 +6,5 @@ two stops particular stops of Gold1 and Gold2 right now.
 
 ## To Do
 
-* Allow users to choose the buses and routes of fairfax via the options page.
+* Allow users to choose the routes of fairfax via the options page.
+* Store user oprions to the extension.
